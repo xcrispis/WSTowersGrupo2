@@ -474,3 +474,4 @@ C:\Users\uyguy\OneDrive\Documentos\WSTowerGrupo2\WSTowerGrupo2\WSTowerGrupo2.And
 C:\Users\uyguy\OneDrive\Documentos\WSTowerGrupo2\WSTowerGrupo2\WSTowerGrupo2.Android\obj\Debug\90\stamp\_GenerateJavaStubs.stamp
 C:\Users\uyguy\OneDrive\Documentos\WSTowerGrupo2\WSTowerGrupo2\WSTowerGrupo2.Android\obj\Debug\90\stamp\_GeneratePackageManagerJava.stamp
 C:\Users\uyguy\OneDrive\Documentos\WSTowerGrupo2\WSTowerGrupo2\WSTowerGrupo2.Android\obj\Debug\90\stamp\_ResolveLibraryProjectImports.stamp
+C:\Users\uyguy\OneDrive\Documentos\WSTowerGrupo2\WSTowerGrupo2\WSTowerGrupo2.Android\obj\Debug\90\res\drawable\template.png

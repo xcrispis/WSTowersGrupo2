@@ -4,7 +4,6 @@ C:\Users\uyguy\OneDrive\Documentos\WSTowerGrupo2\WSTowerGrupo2\WSTowerGrupo2\bin
 C:\Users\uyguy\OneDrive\Documentos\WSTowerGrupo2\WSTowerGrupo2\WSTowerGrupo2\bin\Debug\netstandard2.0\WSTowerGrupo2.pdb
 C:\Users\uyguy\OneDrive\Documentos\WSTowerGrupo2\WSTowerGrupo2\WSTowerGrupo2\obj\Debug\netstandard2.0\WSTowerGrupo2.csprojAssemblyReference.cache
 C:\Users\uyguy\OneDrive\Documentos\WSTowerGrupo2\WSTowerGrupo2\WSTowerGrupo2\obj\Debug\netstandard2.0\App.xaml.g.cs
-C:\Users\uyguy\OneDrive\Documentos\WSTowerGrupo2\WSTowerGrupo2\WSTowerGrupo2\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
 C:\Users\uyguy\OneDrive\Documentos\WSTowerGrupo2\WSTowerGrupo2\WSTowerGrupo2\obj\Debug\netstandard2.0\WSTowerGrupo2.AssemblyInfoInputs.cache
 C:\Users\uyguy\OneDrive\Documentos\WSTowerGrupo2\WSTowerGrupo2\WSTowerGrupo2\obj\Debug\netstandard2.0\WSTowerGrupo2.AssemblyInfo.cs
 C:\Users\uyguy\OneDrive\Documentos\WSTowerGrupo2\WSTowerGrupo2\WSTowerGrupo2\obj\Debug\netstandard2.0\WSTowerGrupo2.csproj.CoreCompileInputs.cache
@@ -12,3 +11,9 @@ C:\Users\uyguy\OneDrive\Documentos\WSTowerGrupo2\WSTowerGrupo2\WSTowerGrupo2\obj
 C:\Users\uyguy\OneDrive\Documentos\WSTowerGrupo2\WSTowerGrupo2\WSTowerGrupo2\obj\Debug\netstandard2.0\WSTowerGrupo2.dll
 C:\Users\uyguy\OneDrive\Documentos\WSTowerGrupo2\WSTowerGrupo2\WSTowerGrupo2\obj\Debug\netstandard2.0\ref\WSTowerGrupo2.dll
 C:\Users\uyguy\OneDrive\Documentos\WSTowerGrupo2\WSTowerGrupo2\WSTowerGrupo2\obj\Debug\netstandard2.0\WSTowerGrupo2.pdb
+C:\Users\uyguy\OneDrive\Documentos\WSTowerGrupo2\WSTowerGrupo2\WSTowerGrupo2\obj\Debug\netstandard2.0\Views\AboutView.xaml.g.cs
+C:\Users\uyguy\OneDrive\Documentos\WSTowerGrupo2\WSTowerGrupo2\WSTowerGrupo2\obj\Debug\netstandard2.0\Views\CadastroView.xaml.g.cs
+C:\Users\uyguy\OneDrive\Documentos\WSTowerGrupo2\WSTowerGrupo2\WSTowerGrupo2\obj\Debug\netstandard2.0\Views\LoginView.xaml.g.cs
+C:\Users\uyguy\OneDrive\Documentos\WSTowerGrupo2\WSTowerGrupo2\WSTowerGrupo2\obj\Debug\netstandard2.0\Views\MenuView.xaml.g.cs
+C:\Users\uyguy\OneDrive\Documentos\WSTowerGrupo2\WSTowerGrupo2\WSTowerGrupo2\obj\Debug\netstandard2.0\Views\PrincipalView.xaml.g.cs
+C:\Users\uyguy\OneDrive\Documentos\WSTowerGrupo2\WSTowerGrupo2\WSTowerGrupo2\obj\Debug\netstandard2.0\Views\SplashView.xaml.g.cs

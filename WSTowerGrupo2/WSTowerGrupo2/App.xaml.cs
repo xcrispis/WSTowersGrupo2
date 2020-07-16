@@ -1,4 +1,6 @@
 ﻿using System;
+using System.Threading.Tasks;
+using WSTowerGrupo2.Views;
 using Xamarin.Forms;
 using Xamarin.Forms.Xaml;
 
@@ -10,11 +12,14 @@ namespace WSTowerGrupo2
         {
             InitializeComponent();
 
-            MainPage = new MainPage();
+            MainPage = new CadastroView();
         }
 
         protected override void OnStart()
         {
+            //Task.Delay(3000);
+            //InitializeComponent();
+            //MainPage = new SplashView();
         }
 
         protected override void OnSleep()
