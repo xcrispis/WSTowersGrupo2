@@ -12,7 +12,7 @@ namespace WSTowerGrupo2
         {
             InitializeComponent();
 
-            MainPage = new LoginView();
+            MainPage = new CadastroView();
         }
 
         protected override void OnStart()
