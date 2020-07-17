@@ -15,6 +15,13 @@ namespace WSTowerGrupo2.Views
         public SplashView()
         {
             InitializeComponent();
+            Navegacao();
+        }
+
+        private async void Navegacao()
+        {
+            await Task.Delay(3000);
+            Application.Current.MainPage = new NavigationPage(new LoginView());
         }
     }
 }

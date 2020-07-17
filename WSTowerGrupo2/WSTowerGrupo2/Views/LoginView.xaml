@@ -7,9 +7,12 @@
              x:Class="WSTowerGrupo2.Views.LoginView">
     <ContentPage.Content>
         <StackLayout>
-            <Label Text="Welcome to Xamarin.Forms!"
-                VerticalOptions="CenterAndExpand" 
-                HorizontalOptions="CenterAndExpand" />
+            <Image Source="template.png" HeightRequest="100" WidthRequest="100"  Margin="30"/>
+            <Entry Placeholder="Insira um usuario..." MaxLength="50" HorizontalOptions="Center" VerticalOptions="Center" WidthRequest="300"></Entry>
+            <Entry StyleId="Password" Placeholder="Insira sua senha..." MaxLength="50" HorizontalOptions="Center" VerticalOptions="Center" WidthRequest="300"></Entry>
+            <Button x:Name="loginButton" Text="Logar" BackgroundColor="MediumPurple" VerticalOptions="End" HorizontalOptions="Center" CornerRadius="5" WidthRequest="180" HeightRequest="50" Margin="0, 50, 0, 0"></Button>
+            <Button HorizontalOptions="Center" Text="Esqueceu sua senha?" BackgroundColor="Transparent" FontSize="12" WidthRequest="100" HeightRequest="80"></Button>
+            <Button x:Name="cadastroButton" HorizontalOptions="Center" Margin="0, -20, 0, 0" Text="Não tem conta ainda?" BackgroundColor="Transparent" FontSize="12" WidthRequest="150" HeightRequest="80"></Button>
         </StackLayout>
     </ContentPage.Content>
 </ContentPage>

@@ -7,14 +7,16 @@
              x:Class="WSTowerGrupo2.Views.CadastroView">
     <ContentPage.Content>
         <StackLayout>
-            <Label Text="CADASTRO"
-                VerticalOptions="CenterAndExpand" 
-                HorizontalOptions="CenterAndExpand" />
+            <Label Text="CADASTRO" HorizontalOptions="CenterAndExpand" />
             
             <StackLayout>
-                <Entry Placeholder="Coloque seu nome..." MaxLength="100"></Entry>
+                <Entry Placeholder="Insera um usuario..." MaxLength="50"></Entry>
+                <Entry Placeholder="Coloque seu nome..." MaxLength="100" ></Entry>
                 <Entry StyleId="Email" Placeholder="Ensira seu email"></Entry>
-                <Button x:Name="cadastroButton" Text="CADASTRAR" BackgroundColor="Azure"></Button>
+                <Entry StyleId="Password" Placeholder="Ensira sua senha" MaxLength="50"></Entry>
+
+                <Button x:Name="cadastroButton" Text="CADASTRAR" BackgroundColor="MediumPurple" VerticalOptions="End" HorizontalOptions="Center" CornerRadius="5" WidthRequest="180" HeightRequest="50"></Button>
+                
             </StackLayout>
         </StackLayout>
 

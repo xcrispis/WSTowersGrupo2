@@ -12,14 +12,14 @@ namespace WSTowerGrupo2
         {
             InitializeComponent();
 
-            MainPage = new CadastroView();
+            MainPage = new LoginView();
         }
 
         protected override void OnStart()
         {
-            //Task.Delay(3000);
-            //InitializeComponent();
-            //MainPage = new SplashView();
+            Task.Delay(3000);
+            InitializeComponent();
+            MainPage = new SplashView();
         }
 
         protected override void OnSleep()
