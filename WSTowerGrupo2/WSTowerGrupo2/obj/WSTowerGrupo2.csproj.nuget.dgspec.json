@@ -1,24 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\uyguy\\OneDrive\\Documentos\\WSTowerGrupo2\\WSTowerGrupo2\\WSTowerGrupo2\\WSTowerGrupo2.csproj": {}
+    "C:\\Users\\fic\\Desktop\\WSTowersGrupo2\\WSTowerGrupo2\\WSTowerGrupo2\\WSTowerGrupo2.csproj": {}
   },
   "projects": {
-    "C:\\Users\\uyguy\\OneDrive\\Documentos\\WSTowerGrupo2\\WSTowerGrupo2\\WSTowerGrupo2\\WSTowerGrupo2.csproj": {
+    "C:\\Users\\fic\\Desktop\\WSTowersGrupo2\\WSTowerGrupo2\\WSTowerGrupo2\\WSTowerGrupo2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\uyguy\\OneDrive\\Documentos\\WSTowerGrupo2\\WSTowerGrupo2\\WSTowerGrupo2\\WSTowerGrupo2.csproj",
+        "projectUniqueName": "C:\\Users\\fic\\Desktop\\WSTowersGrupo2\\WSTowerGrupo2\\WSTowerGrupo2\\WSTowerGrupo2.csproj",
         "projectName": "WSTowerGrupo2",
-        "projectPath": "C:\\Users\\uyguy\\OneDrive\\Documentos\\WSTowerGrupo2\\WSTowerGrupo2\\WSTowerGrupo2\\WSTowerGrupo2.csproj",
-        "packagesPath": "C:\\Users\\uyguy\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\uyguy\\OneDrive\\Documentos\\WSTowerGrupo2\\WSTowerGrupo2\\WSTowerGrupo2\\obj\\",
+        "projectPath": "C:\\Users\\fic\\Desktop\\WSTowersGrupo2\\WSTowerGrupo2\\WSTowerGrupo2\\WSTowerGrupo2.csproj",
+        "packagesPath": "C:\\Users\\fic\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\fic\\Desktop\\WSTowersGrupo2\\WSTowerGrupo2\\WSTowerGrupo2\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Microsoft\\Xamarin\\NuGet\\",
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+          "C:\\Microsoft\\Xamarin\\NuGet\\"
         ],
         "configFilePaths": [
-          "C:\\Users\\uyguy\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\fic\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
@@ -68,7 +67,7 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.301\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.302\\RuntimeIdentifierGraph.json"
         }
       }
     }

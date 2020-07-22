@@ -16,5 +16,15 @@ namespace WSTowerGrupo2.Views
         {
             InitializeComponent();
         }
+
+        private void BtnList_Clicked(object sender, EventArgs e)
+        {
+
+        }
+
+        private void BtnListgrl_Clicked(object sender, EventArgs e)
+        {
+
+        }
     }
 }

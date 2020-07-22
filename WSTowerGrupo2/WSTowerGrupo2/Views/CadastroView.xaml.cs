@@ -16,5 +16,15 @@ namespace WSTowerGrupo2.Views
         {
             InitializeComponent();
         }
+
+        private void cadastroButton__Clicked(object sender, EventArgs e)
+        {
+           
+        }
+
+        private void cadastroButton_Clicked(object sender, EventArgs e)
+        {
+            Navigation.PushAsync(new LoginView());
+        }
     }
 }

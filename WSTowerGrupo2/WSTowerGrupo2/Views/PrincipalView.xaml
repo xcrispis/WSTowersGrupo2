@@ -7,9 +7,12 @@
              x:Class="WSTowerGrupo2.Views.PrincipalView">
     <ContentPage.Content>
         <StackLayout>
-            <Label Text=""
-                VerticalOptions="CenterAndExpand" 
-                HorizontalOptions="CenterAndExpand" />
+            <Image Source="fut.jpg"  Margin="30,30,30,0"/>
+            <Label x:Name="titleNome"  HorizontalOptions="Center"/>
+            <StackLayout Orientation="Horizontal" HorizontalOptions="Center" HeightRequest="500">
+                <Button x:Name="BtnList" WidthRequest="200" HeightRequest="50" HorizontalOptions="Center" VerticalOptions="Start" TextColor="White" BackgroundColor="#0b6623" Text="Listar Jogos" Clicked="BtnList_Clicked"/>
+                <Button x:Name="BtnListgrl" WidthRequest="200" HeightRequest="50" HorizontalOptions="Center" VerticalOptions="Start" TextColor="White" BackgroundColor="#0b6623" Text="Listar Eventos gerais" Clicked="BtnListgrl_Clicked"/>
+            </StackLayout>
         </StackLayout>
     </ContentPage.Content>
 </ContentPage>

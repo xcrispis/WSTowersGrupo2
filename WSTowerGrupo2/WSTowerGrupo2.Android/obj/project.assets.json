@@ -1969,24 +1969,24 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\uyguy\\.nuget\\packages\\": {},
+    "C:\\Users\\fic\\.nuget\\packages\\": {},
     "C:\\Microsoft\\Xamarin\\NuGet\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\uyguy\\OneDrive\\Documentos\\WSTowerGrupo2\\WSTowerGrupo2\\WSTowerGrupo2.Android\\WSTowerGrupo2.Android.csproj",
+      "projectUniqueName": "C:\\Users\\fic\\Desktop\\WSTowersGrupo2\\WSTowerGrupo2\\WSTowerGrupo2.Android\\WSTowerGrupo2.Android.csproj",
       "projectName": "WSTowerGrupo2.Android",
-      "projectPath": "C:\\Users\\uyguy\\OneDrive\\Documentos\\WSTowerGrupo2\\WSTowerGrupo2\\WSTowerGrupo2.Android\\WSTowerGrupo2.Android.csproj",
-      "packagesPath": "C:\\Users\\uyguy\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\uyguy\\OneDrive\\Documentos\\WSTowerGrupo2\\WSTowerGrupo2\\WSTowerGrupo2.Android\\obj\\",
+      "projectPath": "C:\\Users\\fic\\Desktop\\WSTowersGrupo2\\WSTowerGrupo2\\WSTowerGrupo2.Android\\WSTowerGrupo2.Android.csproj",
+      "packagesPath": "C:\\Users\\fic\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\fic\\Desktop\\WSTowersGrupo2\\WSTowerGrupo2\\WSTowerGrupo2.Android\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\"
       ],
       "configFilePaths": [
-        "C:\\Users\\uyguy\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\fic\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
       ],
@@ -2000,8 +2000,8 @@
       "frameworks": {
         "monoandroid90": {
           "projectReferences": {
-            "C:\\Users\\uyguy\\OneDrive\\Documentos\\WSTowerGrupo2\\WSTowerGrupo2\\WSTowerGrupo2\\WSTowerGrupo2.csproj": {
-              "projectPath": "C:\\Users\\uyguy\\OneDrive\\Documentos\\WSTowerGrupo2\\WSTowerGrupo2\\WSTowerGrupo2\\WSTowerGrupo2.csproj"
+            "C:\\Users\\fic\\Desktop\\WSTowersGrupo2\\WSTowerGrupo2\\WSTowerGrupo2\\WSTowerGrupo2.csproj": {
+              "projectPath": "C:\\Users\\fic\\Desktop\\WSTowersGrupo2\\WSTowerGrupo2\\WSTowerGrupo2\\WSTowerGrupo2.csproj"
             }
           }
         }

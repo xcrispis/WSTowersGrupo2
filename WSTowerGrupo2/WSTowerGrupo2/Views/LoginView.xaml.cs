@@ -16,12 +16,14 @@ namespace WSTowerGrupo2.Views
         {
             InitializeComponent();
             NavigationPage.SetHasNavigationBar(this, false);
+
         }
         
 
             private void loginButton_Clicked(object sender, EventArgs e)
         {
-            App.Current.MainPage = new NavigationPage(new PrincipalView());
+            Navigation.PushAsync(new Menu());
+
         }
         private void cadastroButton_Clicked(object sender, EventArgs e)
         {
