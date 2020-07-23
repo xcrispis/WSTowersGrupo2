@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "77MLwsOQuxKMmyel2QPZ1u29BR8VJaJMQAtRh9hqjUo/3Hy0scaoHBvxUMgEMrEmgqhyxSSwmO5Vfq9kIqdEEA==",
+  "dgSpecHash": "R/8en/tprpen4GlgL6k4Oo5BxK+sgWOKrwLZ3Q1rGAgVVwixqjn+oTG5r8fKR9r1ebRQHBCUSFF4rtW+X9HfyA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\fic\\Desktop\\WSTowersGrupo2\\WSTowerGrupo2\\WSTowerGrupo2.Android\\WSTowerGrupo2.Android.csproj",
+  "projectFilePath": "C:\\Users\\fic\\Desktop\\carlaProjeto\\WSTowersGrupo2\\WSTowerGrupo2\\WSTowerGrupo2.Android\\WSTowerGrupo2.Android.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\fic\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
     "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.android.arch.core.common\\1.1.1.3\\xamarin.android.arch.core.common.1.1.1.3.nupkg.sha512",

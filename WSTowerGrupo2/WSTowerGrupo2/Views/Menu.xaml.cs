@@ -29,5 +29,15 @@ namespace WSTowerGrupo2.Views
         {
             Navigation.PushAsync(new AboutView());
         }
+
+        private void BtnList_Clicked(object sender, EventArgs e)
+        {
+            Navigation.PushAsync(new ListaJogosView());
+        }
+
+        private void BtnListgrl_Clicked(object sender, EventArgs e)
+        {
+
+        }
     }
 }
