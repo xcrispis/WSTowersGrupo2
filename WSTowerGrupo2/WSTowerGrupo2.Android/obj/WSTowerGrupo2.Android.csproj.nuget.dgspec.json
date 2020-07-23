@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\fic\\Desktop\\WSTowersGrupo2\\WSTowerGrupo2\\WSTowerGrupo2.Android\\WSTowerGrupo2.Android.csproj": {}
+    "C:\\Users\\fic\\Desktop\\carlaProjeto\\WSTowersGrupo2\\WSTowerGrupo2\\WSTowerGrupo2.Android\\WSTowerGrupo2.Android.csproj": {}
   },
   "projects": {
-    "C:\\Users\\fic\\Desktop\\WSTowersGrupo2\\WSTowerGrupo2\\WSTowerGrupo2.Android\\WSTowerGrupo2.Android.csproj": {
+    "C:\\Users\\fic\\Desktop\\carlaProjeto\\WSTowersGrupo2\\WSTowerGrupo2\\WSTowerGrupo2.Android\\WSTowerGrupo2.Android.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\fic\\Desktop\\WSTowersGrupo2\\WSTowerGrupo2\\WSTowerGrupo2.Android\\WSTowerGrupo2.Android.csproj",
+        "projectUniqueName": "C:\\Users\\fic\\Desktop\\carlaProjeto\\WSTowersGrupo2\\WSTowerGrupo2\\WSTowerGrupo2.Android\\WSTowerGrupo2.Android.csproj",
         "projectName": "WSTowerGrupo2.Android",
-        "projectPath": "C:\\Users\\fic\\Desktop\\WSTowersGrupo2\\WSTowerGrupo2\\WSTowerGrupo2.Android\\WSTowerGrupo2.Android.csproj",
+        "projectPath": "C:\\Users\\fic\\Desktop\\carlaProjeto\\WSTowersGrupo2\\WSTowerGrupo2\\WSTowerGrupo2.Android\\WSTowerGrupo2.Android.csproj",
         "packagesPath": "C:\\Users\\fic\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\fic\\Desktop\\WSTowersGrupo2\\WSTowerGrupo2\\WSTowerGrupo2.Android\\obj\\",
+        "outputPath": "C:\\Users\\fic\\Desktop\\carlaProjeto\\WSTowersGrupo2\\WSTowerGrupo2\\WSTowerGrupo2.Android\\obj\\",
         "projectStyle": "PackageReference",
         "skipContentFileWrite": true,
         "fallbackFolders": [
@@ -32,8 +32,8 @@
         "frameworks": {
           "monoandroid90": {
             "projectReferences": {
-              "C:\\Users\\fic\\Desktop\\WSTowersGrupo2\\WSTowerGrupo2\\WSTowerGrupo2\\WSTowerGrupo2.csproj": {
-                "projectPath": "C:\\Users\\fic\\Desktop\\WSTowersGrupo2\\WSTowerGrupo2\\WSTowerGrupo2\\WSTowerGrupo2.csproj"
+              "C:\\Users\\fic\\Desktop\\carlaProjeto\\WSTowersGrupo2\\WSTowerGrupo2\\WSTowerGrupo2\\WSTowerGrupo2.csproj": {
+                "projectPath": "C:\\Users\\fic\\Desktop\\carlaProjeto\\WSTowersGrupo2\\WSTowerGrupo2\\WSTowerGrupo2\\WSTowerGrupo2.csproj"
               }
             }
           }
@@ -54,14 +54,14 @@
         }
       }
     },
-    "C:\\Users\\fic\\Desktop\\WSTowersGrupo2\\WSTowerGrupo2\\WSTowerGrupo2\\WSTowerGrupo2.csproj": {
+    "C:\\Users\\fic\\Desktop\\carlaProjeto\\WSTowersGrupo2\\WSTowerGrupo2\\WSTowerGrupo2\\WSTowerGrupo2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\fic\\Desktop\\WSTowersGrupo2\\WSTowerGrupo2\\WSTowerGrupo2\\WSTowerGrupo2.csproj",
+        "projectUniqueName": "C:\\Users\\fic\\Desktop\\carlaProjeto\\WSTowersGrupo2\\WSTowerGrupo2\\WSTowerGrupo2\\WSTowerGrupo2.csproj",
         "projectName": "WSTowerGrupo2",
-        "projectPath": "C:\\Users\\fic\\Desktop\\WSTowersGrupo2\\WSTowerGrupo2\\WSTowerGrupo2\\WSTowerGrupo2.csproj",
+        "projectPath": "C:\\Users\\fic\\Desktop\\carlaProjeto\\WSTowersGrupo2\\WSTowerGrupo2\\WSTowerGrupo2\\WSTowerGrupo2.csproj",
         "packagesPath": "C:\\Users\\fic\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\fic\\Desktop\\WSTowersGrupo2\\WSTowerGrupo2\\WSTowerGrupo2\\obj\\",
+        "outputPath": "C:\\Users\\fic\\Desktop\\carlaProjeto\\WSTowersGrupo2\\WSTowerGrupo2\\WSTowerGrupo2\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"
@@ -117,7 +117,7 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.302\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.301\\RuntimeIdentifierGraph.json"
         }
       }
     }
