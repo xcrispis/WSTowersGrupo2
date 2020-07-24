@@ -7,11 +7,9 @@
              x:Class="WSTowerGrupo2.Views.PrincipalView">
     <ContentPage.Content>
         <StackLayout>
-            <Image Source="fut.jpg"  Margin="30,30,30,0"/>
-            <Label x:Name="titleNome"  HorizontalOptions="Center"/>
-            <Label Text="A FIFA, é uma organização sem fins lucrativos internacional que dirige as associações futebol, o esporte
-                coletivo mais popular do mundo, além de ser responsável e detentora dos direitos de muitos Campeonatos pelo Mundo."
-                   FontSize="18" Padding="20"  TextColor="Black" Margin="10, 0, 10, 0" HorizontalOptions="CenterAndExpand" VerticalOptions="Center" HeightRequest="200"/>
+            <Label Text=""
+                VerticalOptions="CenterAndExpand" 
+                HorizontalOptions="CenterAndExpand" />
         </StackLayout>
     </ContentPage.Content>
 </ContentPage>

@@ -16,7 +16,5 @@ namespace WSTowerGrupo2.Views
         {
             InitializeComponent();
         }
-
-        
     }
 }

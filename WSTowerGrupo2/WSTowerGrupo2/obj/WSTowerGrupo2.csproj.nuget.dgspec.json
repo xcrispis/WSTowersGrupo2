@@ -1,23 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\fic\\Desktop\\carlaProjeto\\WSTowersGrupo2\\WSTowerGrupo2\\WSTowerGrupo2\\WSTowerGrupo2.csproj": {}
+    "C:\\Users\\uyguy\\OneDrive\\Documentos\\WSTowersGrupo2\\WSTowerGrupo2\\WSTowerGrupo2\\WSTowerGrupo2.csproj": {}
   },
   "projects": {
-    "C:\\Users\\fic\\Desktop\\carlaProjeto\\WSTowersGrupo2\\WSTowerGrupo2\\WSTowerGrupo2\\WSTowerGrupo2.csproj": {
+    "C:\\Users\\uyguy\\OneDrive\\Documentos\\WSTowersGrupo2\\WSTowerGrupo2\\WSTowerGrupo2\\WSTowerGrupo2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\fic\\Desktop\\carlaProjeto\\WSTowersGrupo2\\WSTowerGrupo2\\WSTowerGrupo2\\WSTowerGrupo2.csproj",
+        "projectUniqueName": "C:\\Users\\uyguy\\OneDrive\\Documentos\\WSTowersGrupo2\\WSTowerGrupo2\\WSTowerGrupo2\\WSTowerGrupo2.csproj",
         "projectName": "WSTowerGrupo2",
-        "projectPath": "C:\\Users\\fic\\Desktop\\carlaProjeto\\WSTowersGrupo2\\WSTowerGrupo2\\WSTowerGrupo2\\WSTowerGrupo2.csproj",
-        "packagesPath": "C:\\Users\\fic\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\fic\\Desktop\\carlaProjeto\\WSTowersGrupo2\\WSTowerGrupo2\\WSTowerGrupo2\\obj\\",
+        "projectPath": "C:\\Users\\uyguy\\OneDrive\\Documentos\\WSTowersGrupo2\\WSTowerGrupo2\\WSTowerGrupo2\\WSTowerGrupo2.csproj",
+        "packagesPath": "C:\\Users\\uyguy\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\uyguy\\OneDrive\\Documentos\\WSTowersGrupo2\\WSTowerGrupo2\\WSTowerGrupo2\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Microsoft\\Xamarin\\NuGet\\"
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\fic\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\uyguy\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
@@ -55,6 +56,10 @@
             "Xamarin.Forms": {
               "target": "Package",
               "version": "[4.5.0.495, )"
+            },
+            "sqlite-net-pcl": {
+              "target": "Package",
+              "version": "[1.7.335, )"
             }
           },
           "imports": [

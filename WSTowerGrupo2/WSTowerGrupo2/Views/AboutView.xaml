@@ -7,12 +7,10 @@
              x:Class="WSTowerGrupo2.Views.AboutView">
     <ContentPage.Content>
         <StackLayout>
-            <Label Text="Sobre Nós" FontSize="40" TextColor="Black" Margin="0, 40, 0, 0" Padding="25"  HorizontalOptions="CenterAndExpand" WidthRequest="250"/>
-  
-            <Label Text="A FIFA, é uma organização sem fins lucrativos internacional que dirige as associações futebol, o esporte
-                coletivo mais popular do mundo, além de ser responsável e detentora dos direitos de muitos Campeonatos pelo Mundo."
-                   FontSize="18" Padding="20"  TextColor="Black" Margin="10, 0, 10, 0" HorizontalOptions="CenterAndExpand" VerticalOptions="Center" HeightRequest="200"/>
-            <Image Source="tower.png" HeightRequest="80" WidthRequest="80" Margin="0, 60, 0, 0" HorizontalOptions="CenterAndExpand" VerticalOptions="End"/>
+            <Label Text="Sobre Nós" FontSize="40" TextColor="DarkViolet" Margin="0, 40, 0, 0" HorizontalOptions="CenterAndExpand" />
+
+            <Label Text="Lorem ipsum dolor sit amet, consectetur adipiscing elit. In condimentum eleifend ex, at facilisis eros tempus in. Nulla dignissim porta tincidunt. Pellentesque ipsum arcu, bibendum in orci et, scelerisque vulputate velit. Curabitur et lectus eget mi mattis dapibus. Praesent commodo, mauris luctus egestas bibendum, metus nunc laoreet enim, nec mattis arcu elit ut lacus." FontSize="18" Padding="20" BackgroundColor="AliceBlue"  TextColor="DarkViolet" Margin="0, 40, 0, 0" HorizontalOptions="CenterAndExpand" VerticalOptions="Center"/>
+            <Image Source="tower.png" HeightRequest="80" WidthRequest="80" Margin="0, 100, 40, 0" HorizontalOptions="CenterAndExpand" VerticalOptions="End"/>
         </StackLayout>
     </ContentPage.Content>
 </ContentPage>
