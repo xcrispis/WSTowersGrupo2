@@ -56,19 +56,20 @@ namespace WSTowerGrupo2.Views
         }
 
 
-        private void loginButton_Clicked(object sender, EventArgs e)
+        private async void loginButton_Clicked(object sender, EventArgs e)
         {
-            //var email = txtEmail.Text ?? "";
-            //var senha = txtSenha.Text ?? "";
-            //var usuarios = await App.Database.GetUsuarioAsync();
-            //var usuario = usuarios.Where(p => p.Email == email && p.Senha = Senha).FirstOrDefault();
+            var email = txtEmail.Text ?? "";
+            var senha = txtSenha.Text ?? "";
+            var usuarios = await App.Database.GetUsuarioAsync();
+            var usuario = usuarios.Where(p => p.Email == email && p.Senha == senha).FirstOrDefault();
+           
+            if (usuario != null)
+            {
+                App.Current.MainPage = new NavigationPage(new PrincipalView());
+                Navigation.PushAsync(new PrincipalView());
+            }
             //App.Current.MainPage = new NavigationPage(new PrincipalView());
-            //if (usuario != null)
-            //{
-            //    Navigation.PushAsync(new PrincipalView());
-            //}
-            App.Current.MainPage = new NavigationPage(new PrincipalView());
-            Navigation.PushAsync(new PrincipalView());
+            //Navigation.PushAsync(new PrincipalView());
 
         }
         private void cadastroButton_Clicked(object sender, EventArgs e)
