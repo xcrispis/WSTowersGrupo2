@@ -2209,11 +2209,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\uyguy\\OneDrive\\Documentos\\WSTowerGrupo2\\WSTowerGrupo2\\WSTowerGrupo2.Android\\WSTowerGrupo2.Android.csproj",
+      "projectUniqueName": "C:\\Users\\uyguy\\OneDrive\\Documentos\\WSTowersGrupo2\\WSTowerGrupo2\\WSTowerGrupo2.Android\\WSTowerGrupo2.Android.csproj",
       "projectName": "WSTowerGrupo2.Android",
-      "projectPath": "C:\\Users\\uyguy\\OneDrive\\Documentos\\WSTowerGrupo2\\WSTowerGrupo2\\WSTowerGrupo2.Android\\WSTowerGrupo2.Android.csproj",
+      "projectPath": "C:\\Users\\uyguy\\OneDrive\\Documentos\\WSTowersGrupo2\\WSTowerGrupo2\\WSTowerGrupo2.Android\\WSTowerGrupo2.Android.csproj",
       "packagesPath": "C:\\Users\\uyguy\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\uyguy\\OneDrive\\Documentos\\WSTowerGrupo2\\WSTowerGrupo2\\WSTowerGrupo2.Android\\obj\\",
+      "outputPath": "C:\\Users\\uyguy\\OneDrive\\Documentos\\WSTowersGrupo2\\WSTowerGrupo2\\WSTowerGrupo2.Android\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "fallbackFolders": [
@@ -2234,8 +2234,8 @@
       "frameworks": {
         "monoandroid90": {
           "projectReferences": {
-            "C:\\Users\\uyguy\\OneDrive\\Documentos\\WSTowerGrupo2\\WSTowerGrupo2\\WSTowerGrupo2\\WSTowerGrupo2.csproj": {
-              "projectPath": "C:\\Users\\uyguy\\OneDrive\\Documentos\\WSTowerGrupo2\\WSTowerGrupo2\\WSTowerGrupo2\\WSTowerGrupo2.csproj"
+            "C:\\Users\\uyguy\\OneDrive\\Documentos\\WSTowersGrupo2\\WSTowerGrupo2\\WSTowerGrupo2\\WSTowerGrupo2.csproj": {
+              "projectPath": "C:\\Users\\uyguy\\OneDrive\\Documentos\\WSTowersGrupo2\\WSTowerGrupo2\\WSTowerGrupo2\\WSTowerGrupo2.csproj"
             }
           }
         }

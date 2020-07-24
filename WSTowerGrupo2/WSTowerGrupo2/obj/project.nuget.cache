@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "R2VHsQZ7MsnN1jhBKpXmeA7CubSXg22Sl/6z8b9myDrTY1vOhc+1iVyifmodPPia/KpxRTpClo5dzdS1ijkQjg==",
+  "dgSpecHash": "9fSOD2YFUywKENdgAUxiMBW+19Y1Y1QgI1LV45AoXzUlD/sAkWNUw42jYpzcZqfH1Un/b2ile43lY/WMCgVQcA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\uyguy\\OneDrive\\Documentos\\WSTowerGrupo2\\WSTowerGrupo2\\WSTowerGrupo2\\WSTowerGrupo2.csproj",
+  "projectFilePath": "C:\\Users\\uyguy\\OneDrive\\Documentos\\WSTowersGrupo2\\WSTowerGrupo2\\WSTowerGrupo2\\WSTowerGrupo2.csproj",
   "expectedPackageFiles": [
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",

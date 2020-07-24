@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "YxYEcMx7AWizK1XLDJKOS13LB12ejSGpLsLa3CvvNTCqS8N/7xjFaCwjvpzWINbYgtKJUYggOFXt4kZ4nCWk8w==",
+  "dgSpecHash": "7JMXqJBh7fObzTBi29OZ7JRnqAxD0L+HP8/b/fnYmnJdj88m7sY/SDawjxGhG2eC5A+HVQnvtgO8fy6BTa+lOQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\uyguy\\OneDrive\\Documentos\\WSTowerGrupo2\\WSTowerGrupo2\\WSTowerGrupo2.Android\\WSTowerGrupo2.Android.csproj",
+  "projectFilePath": "C:\\Users\\uyguy\\OneDrive\\Documentos\\WSTowersGrupo2\\WSTowerGrupo2\\WSTowerGrupo2.Android\\WSTowerGrupo2.Android.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\uyguy\\.nuget\\packages\\sqlite-net-pcl\\1.7.335\\sqlite-net-pcl.1.7.335.nupkg.sha512",
     "C:\\Users\\uyguy\\.nuget\\packages\\sqlitepclraw.bundle_green\\2.0.3\\sqlitepclraw.bundle_green.2.0.3.nupkg.sha512",

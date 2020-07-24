@@ -910,11 +910,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\uyguy\\OneDrive\\Documentos\\WSTowerGrupo2\\WSTowerGrupo2\\WSTowerGrupo2\\WSTowerGrupo2.csproj",
+      "projectUniqueName": "C:\\Users\\uyguy\\OneDrive\\Documentos\\WSTowersGrupo2\\WSTowerGrupo2\\WSTowerGrupo2\\WSTowerGrupo2.csproj",
       "projectName": "WSTowerGrupo2",
-      "projectPath": "C:\\Users\\uyguy\\OneDrive\\Documentos\\WSTowerGrupo2\\WSTowerGrupo2\\WSTowerGrupo2\\WSTowerGrupo2.csproj",
+      "projectPath": "C:\\Users\\uyguy\\OneDrive\\Documentos\\WSTowersGrupo2\\WSTowerGrupo2\\WSTowerGrupo2\\WSTowerGrupo2.csproj",
       "packagesPath": "C:\\Users\\uyguy\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\uyguy\\OneDrive\\Documentos\\WSTowerGrupo2\\WSTowerGrupo2\\WSTowerGrupo2\\obj\\",
+      "outputPath": "C:\\Users\\uyguy\\OneDrive\\Documentos\\WSTowersGrupo2\\WSTowerGrupo2\\WSTowerGrupo2\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\",
