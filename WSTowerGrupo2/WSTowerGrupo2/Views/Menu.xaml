@@ -9,9 +9,11 @@
         <ContentPage Title="Master">          
         
         <StackLayout>
-                <Button x:Name="SobreNosBtn" Text="Sobre Nós" WidthRequest="100" VerticalOptions="CenterAndExpand" HeightRequest="50" TextColor="White" BackgroundColor="#00008b" BorderWidth="6" Clicked="SobreNosBtn_Clicked"/>
-                <Button x:Name="Sair_button" WidthRequest="100" VerticalOptions="CenterAndExpand" Text="Sair"   HeightRequest="50" TextColor="White" BackgroundColor="#00008b" BorderWidth="6" Clicked="Sair_button_Clicked"/>
-                
+                <Image Source="template.png"/>
+                <Button x:Name="BtnList" WidthRequest="200" HeightRequest="50" HorizontalOptions="CenterAndExpand" VerticalOptions="CenterAndExpand" TextColor="White" BackgroundColor="#00008b" Text="Listar Jogos" Clicked="BtnList_Clicked"/>
+                <Button x:Name="BtnListgrl" WidthRequest="200" HeightRequest="50" HorizontalOptions="CenterAndExpand" VerticalOptions="CenterAndExpand" TextColor="White" BackgroundColor="#00008b" Text="Listar Eventos gerais" Clicked="BtnListgrl_Clicked"/>
+                <Button x:Name="SobreNosBtn" Text="Sobre Nós" WidthRequest="200" VerticalOptions="CenterAndExpand" HorizontalOptions="CenterAndExpand" HeightRequest="50" TextColor="White" BackgroundColor="#00008b" BorderWidth="6" Clicked="SobreNosBtn_Clicked"/>
+                <Button x:Name="Sair_button" WidthRequest="200" VerticalOptions="CenterAndExpand" Text="Sair" HorizontalOptions="CenterAndExpand" HeightRequest="50" TextColor="White" BackgroundColor="#00008b" BorderWidth="6" Clicked="Sair_button_Clicked"/>
             </StackLayout>
         </ContentPage>
     </MasterDetailPage.Master>

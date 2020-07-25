@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\fic\\Desktop\\WSTowersGrupo2\\WSTowerGrupo2\\WSTowerGrupo2\\WSTowerGrupo2.csproj": {}
+    "C:\\Users\\fic\\Desktop\\teste12\\WSTowerGrupo2\\WSTowerGrupo2\\WSTowerGrupo2.csproj": {}
   },
   "projects": {
-    "C:\\Users\\fic\\Desktop\\WSTowersGrupo2\\WSTowerGrupo2\\WSTowerGrupo2\\WSTowerGrupo2.csproj": {
+    "C:\\Users\\fic\\Desktop\\teste12\\WSTowerGrupo2\\WSTowerGrupo2\\WSTowerGrupo2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\fic\\Desktop\\WSTowersGrupo2\\WSTowerGrupo2\\WSTowerGrupo2\\WSTowerGrupo2.csproj",
+        "projectUniqueName": "C:\\Users\\fic\\Desktop\\teste12\\WSTowerGrupo2\\WSTowerGrupo2\\WSTowerGrupo2.csproj",
         "projectName": "WSTowerGrupo2",
-        "projectPath": "C:\\Users\\fic\\Desktop\\WSTowersGrupo2\\WSTowerGrupo2\\WSTowerGrupo2\\WSTowerGrupo2.csproj",
+        "projectPath": "C:\\Users\\fic\\Desktop\\teste12\\WSTowerGrupo2\\WSTowerGrupo2\\WSTowerGrupo2.csproj",
         "packagesPath": "C:\\Users\\fic\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\fic\\Desktop\\WSTowersGrupo2\\WSTowerGrupo2\\WSTowerGrupo2\\obj\\",
+        "outputPath": "C:\\Users\\fic\\Desktop\\teste12\\WSTowerGrupo2\\WSTowerGrupo2\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"

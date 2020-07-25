@@ -6,13 +6,33 @@
              mc:Ignorable="d"
              x:Class="WSTowerGrupo2.Views.PrincipalView">
     <ContentPage.Content>
-        <StackLayout>
-            <Image Source="fut.jpg"  Margin="30,30,30,0"/>
-            <Label x:Name="titleNome"  HorizontalOptions="Center"/>
-            <StackLayout Orientation="Horizontal" HorizontalOptions="Center" HeightRequest="500">
-                <Button x:Name="BtnList" WidthRequest="200" HeightRequest="50" HorizontalOptions="Center" VerticalOptions="Start" TextColor="White" BackgroundColor="#0b6623" Text="Listar Jogos" Clicked="BtnList_Clicked"/>
-                <Button x:Name="BtnListgrl" WidthRequest="200" HeightRequest="50" HorizontalOptions="Center" VerticalOptions="Start" TextColor="White" BackgroundColor="#0b6623" Text="Listar Eventos gerais" Clicked="BtnListgrl_Clicked"/>
+        <StackLayout BackgroundColor="Black">
+            <Label Text="Tela Principal" FontAttributes="Bold" FontSize="Title" TextColor="#474a51" VerticalOptions="CenterAndExpand" HorizontalOptions="CenterAndExpand"/>
+            <StackLayout>
+                
+                <StackLayout Orientation="Vertical" VerticalOptions="Center" BackgroundColor="#a2a2a2" Margin="30" Padding="20" WidthRequest="100" HeightRequest="170">
+                    <StackLayout VerticalOptions="CenterAndExpand" Orientation="Horizontal" HorizontalOptions="CenterAndExpand">
+                        <Image Source="Oeste.png" WidthRequest="40" HeightRequest="40"/>
+                        <Label Text="X" FontSize="20" TextColor="White"/>
+                        <Image Source="corinthians.png" WidthRequest="40" HeightRequest="40"/>
+                    </StackLayout>
+                    <Label HorizontalTextAlignment="Center" Text="Evento: Oeste x Corinthians (portões fechados) Competição: Campeonato Paulista masculino Modalidade: futebol Data: 26/07/2020 às 16h00 (domingo) Local: Arena Barueri Endereço: Avenida Prefeito João Vilallobo Quero, 1001; Jardim Belval Localidade: Barueri-SP  CEP: 06422-122 Evento para: assistir no local Mais informações: http://www.futebolpaulista.com.br/Competicoes/Tabela.aspx"
+                            FontSize="13" TextColor="White" WidthRequest="30" VerticalOptions="CenterAndExpand"/>
+                </StackLayout>
+
+                <StackLayout Orientation="Vertical" VerticalOptions="Center" BackgroundColor="#a2a2a2" Margin="30" Padding="20" WidthRequest="100" HeightRequest="170">
+                    <StackLayout VerticalOptions="CenterAndExpand" Orientation="Horizontal" HorizontalOptions="CenterAndExpand">
+                    <Image Source="aguasanta.png" WidthRequest="40" HeightRequest="40"/>
+                    <Label Text="X" FontSize="20" TextColor="White"/>
+                    <Image Source="palmeiras.png" WidthRequest="40" HeightRequest="40"/>
+                </StackLayout>
+                <Label HorizontalTextAlignment="Center" Text="Evento: Palmeiras x Água Santa (portões fechados) Competição: Campeonato Paulista masculino Modalidade: futebol Data: 26/07/2020 às 16h00 (domingo) Local: Allianz Parque Endereço: Rua Palestra Itália, 240; Perdizes Localidade: São Paulo - Zona Oeste CEP: 05005-030 Evento para: assistir no local Mais informações: http://www.futebolpaulista.com.br/Competicoes/Tabela.aspx"
+                            FontSize="13" TextColor="White" WidthRequest="30" VerticalOptions="CenterAndExpand"/>
             </StackLayout>
+            
+            </StackLayout>
+           
+            
         </StackLayout>
     </ContentPage.Content>
 </ContentPage>

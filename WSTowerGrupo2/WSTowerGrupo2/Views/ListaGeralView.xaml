@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             mc:Ignorable="d"
+             x:Class="WSTowerGrupo2.Views.ListaGeralView">
+   
+       
+        <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="*"/>
+            <ColumnDefinition Width="*"/>
+            <ColumnDefinition Width="*"/>
+            <ColumnDefinition Width="*"/>
+        </Grid.ColumnDefinitions>
+        <Label x:Name="resultText" Text="Jogo" FontSize="30" FontAttributes="Bold" LineBreakMode="NoWrap" BackgroundColor="#0b6623"  TextColor="White"
+               HorizontalOptions="Center" VerticalOptions="Center" Grid.ColumnSpan="1" Grid.Row="0"/>
+        <Label x:Name="resultData" Text="Data" FontSize="30" FontAttributes="Bold" LineBreakMode="NoWrap" BackgroundColor="#0b6623"  TextColor="White"
+               HorizontalOptions="Center" VerticalOptions="Center" Grid.ColumnSpan="2" Grid.Row="0"/>
+        <Label x:Name="resultHorario" Text="Horário" FontSize="30" FontAttributes="Bold" BackgroundColor="#0b6623"  TextColor="White"
+               HorizontalOptions="Center" VerticalOptions="Center" Grid.ColumnSpan="3" Grid.Row="0"/>
+        <Label x:Name="resultLocal" Text="Local" FontSize="30" FontAttributes="Bold" BackgroundColor="#0b6623"  TextColor="White"
+               HorizontalOptions="Center" VerticalOptions="Center" Grid.ColumnSpan="4" Grid.Row="0"/>
+    </Grid>
+    
+</ContentPage>
