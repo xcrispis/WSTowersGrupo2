@@ -8,11 +8,11 @@
     <ContentPage.Content>
         <StackLayout>
             <Image Source="template.png" HeightRequest="200" WidthRequest="200"  Margin="30"/>
-            <Entry Placeholder="Usuário" MaxLength="50" HorizontalOptions="Center" VerticalOptions="Center" WidthRequest="300"></Entry>
-            <Entry StyleId="Password" Placeholder="Senha" MaxLength="50" HorizontalOptions="Center" VerticalOptions="Center" WidthRequest="300"></Entry>
-            <Button x:Name="loginButton" Text="Logar" BackgroundColor="#0b6623" VerticalOptions="End" HorizontalOptions="Center" CornerRadius="5" WidthRequest="180" HeightRequest="50" Margin="0, 50, 0, 0" TextColor="White" Clicked="loginButton_Clicked"></Button>
+            <Entry x:Name="txtEmail" TextChanged="User_TextChanged" Placeholder="Email" MaxLength="50" HorizontalOptions="Center" VerticalOptions="Center" WidthRequest="300"></Entry>
+            <Entry x:Name="txtSenha"  IsPassword="True" StyleId="Password" Placeholder="Senha" MaxLength="50" HorizontalOptions="Center" VerticalOptions="Center" WidthRequest="300"></Entry>
+            <Button Clicked="loginButton_Clicked" x:Name="loginButton" Text="Logar" BackgroundColor="#0b6623" VerticalOptions="End" HorizontalOptions="Center" CornerRadius="5" WidthRequest="180" HeightRequest="50" Margin="0, 50, 0, 0" TextColor="White" ></Button>
             <Button HorizontalOptions="Center" Text="Esqueci minha Senha"   TextColor="Red" BackgroundColor="Transparent" FontSize="12" WidthRequest="200" HeightRequest="80"></Button>
-            <Button x:Name="cadastroButton" HorizontalOptions="Center" Margin="0, -40, 0, 0" Text="Criar Conta" BackgroundColor="Transparent" FontSize="12" WidthRequest="200" HeightRequest="80" Clicked="cadastroButton_Clicked"></Button>
+            <Button Clicked="cadastroButton_Clicked" x:Name="cadastroButton" HorizontalOptions="Center" Margin="0, -40, 0, 0" Text="Criar Conta" BackgroundColor="Transparent" FontSize="12" WidthRequest="200" HeightRequest="80"></Button>
         </StackLayout>
     </ContentPage.Content>
 </ContentPage>
